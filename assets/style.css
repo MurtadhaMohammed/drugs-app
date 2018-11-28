@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background: #eee
+}
+header{
+    height: 100px;
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: -2px 5px 16px -5px #33333357;
+}
+
+header img.logo{
+   width: 175px
+}
+
+header .create-btn{
+    background: #23cc09;
+    color: #fff;
+    font-size: 20px;
+    height: 50px;
+    background-image:none;
+}
+header .create-btn:hover{
+    background: #5cec45;
+}
+body .drug-item{
+    padding: 5px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    margin: 5px;
+    color: #333333e0;
+}
+
+main .pres-item{
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px
+}
+button.css-1ii3p2c{
+    background: #E91E63;
+    color: #fff;
+    border-radius: 50%;
+    margin-top: -45px;
+    margin-right: -34px;
+    border: 5px solid #778795;
+    width: 50px;
+    height: 50px;
+}
+button.css-1ii3p2c svg{
+    fill: #fff !important
+}
+.css-1ii3p2c:not([disabled]):not([data-disabled]):hover, [data-css-1ii3p2c]:not([disabled]):not([data-disabled]):hover, .css-1ii3p2c[data-simulate-notdisablednotdatadisabledhover], [data-css-1ii3p2c][data-simulate-notdisablednotdatadisabledhover]{
+    background-color: rgb(243, 64, 124) !important;
+}
+
+main{
+    margin-top: 40px;
+    color: #6a6767
+}
+main .remove-btn{
+    background: #f04639;
+    width: 40px;
+    height: 40px;
+    padding: 12px;
+    color: #fff !important
+}
+main .print-btn{
+    background: #00bcd4;
+    width: 40px;
+    height: 40px;
+    padding: 12px;
+    color: #fff !important;
+    margin-right: 10px
+}
+main .pres-item p{
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+ table, td, th {    
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+ table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+ th, td {
+    padding: 15px;
+}
+
+small{
+    color: gray
+}
+
+
+
+
+
+
+
+.container{
+    padding: 0 15%;
+}
+
+@media(max-width: 1000px){
+    .container{
+        padding: 0 10%;
+    }
+}
+@media(max-width: 800px){
+    .container{
+        padding: 0 8%;
+    }
+}
+
+@media(max-width: 500px){
+    .container{
+        padding: 0 2%;
+    }
+}
+
+

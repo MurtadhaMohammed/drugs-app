@@ -1,0 +1,31 @@
+/* custom framework */
+
+body .css-69cngj:not([disabled]):not([data-disabled]):hover, [data-css-69cngj]:not([disabled]):not([data-disabled]):hover, .css-69cngj[data-simulate-notdisablednotdatadisabledhover], [data-css-69cngj][data-simulate-notdisablednotdatadisabledhover]{
+    background-image:none;
+    background-color: none
+}
+body .css-69cngj:not([disabled]):not([data-disabled]):active, [data-css-69cngj]:not([disabled]):not([data-disabled]):active, .css-69cngj:not([disabled]):not([data-disabled])[aria-expanded="true"], [data-css-69cngj]:not([disabled]):not([data-disabled])[aria-expanded="true"], .css-69cngj:not([disabled]):not([data-disabled])[data-active], [data-css-69cngj]:not([disabled]):not([data-disabled])[data-active]{
+    background-image:none;
+    background-color: none !important
+}
+body .css-69cngj:not([disabled]):not([data-disabled]):focus, [data-css-69cngj]:not([disabled]):not([data-disabled]):focus, .css-69cngj[data-simulate-notdisablednotdatadisabledfocus], [data-css-69cngj][data-simulate-notdisablednotdatadisabledfocus]{
+    box-shadow: none
+}
+body .css-69cngj:not([disabled]):not([data-disabled]):active, [data-css-69cngj]:not([disabled]):not([data-disabled]):active, .css-69cngj:not([disabled]):not([data-disabled])[aria-expanded="true"], [data-css-69cngj]:not([disabled]):not([data-disabled])[aria-expanded="true"], .css-69cngj:not([disabled]):not([data-disabled])[data-active], [data-css-69cngj]:not([disabled]):not([data-disabled])[data-active]{
+    background-color: none !important;
+    box-shadow: none
+}
+
+body .css-nwvixr{
+    background:  #23cc09;
+    box-shadow: none
+}
+body .css-nwvixr:not([disabled]):not([data-disabled]):hover, [data-css-nwvixr]:not([disabled]):not([data-disabled]):hover, .css-nwvixr[data-simulate-notdisablednotdatadisabledhover], [data-css-nwvixr][data-simulate-notdisablednotdatadisabledhover]{
+    background: #5cec45;
+    box-shadow: none;
+}
+
+body .szg_border-box{
+    background: transparent;
+    box-shadow: none
+}

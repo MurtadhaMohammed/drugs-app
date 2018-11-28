@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #707070;
+        font-size: 20px;
+        font-family: SegoeUI-Semibold, Segoe UI;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        fill: #23cc09;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_1_1" data-name="Symbol 1 – 1" transform="translate(79 1597)">
+    <text id="FikraDrugs" class="cls-1" transform="translate(-79 -1575)"><tspan x="0" y="0">Fikra</tspan><tspan class="cls-2" y="0">Drugs</tspan></text>
+  </g>
+</svg>
